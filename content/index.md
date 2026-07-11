@@ -1,0 +1,9 @@
+---
+title: Kizomba knowledgebase
+---
+
+This is a website that stores all the Kizomba knowledge in a structured way specifically for Rico.
+
+Useful links:
+- [All learned moves](/tags/learned)
+- [Moves to learn](/tags/todo)
